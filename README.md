@@ -1,0 +1,2 @@
+# AAE_021_CoaxialDrone
+[Vehicle dynamics](https://en.wikipedia.org/wiki/Vehicle_dynamics) are concerned with the motion of bodies under the action of forces. For our purposes, vehicle dynamics references understanding how the rotatation of the quadrotor's four rotorss create forces and how these forces generate motion of the vehicle.  \nOver the next few notebooks, we'll learn how to model these motions, mathematically, in Python.
