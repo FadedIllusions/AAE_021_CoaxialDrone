@@ -31,7 +31,7 @@ We use the lowercase, greek letter omega(ω) to represent the rotation rate of a
 
 It turns out that, when a rotor is rotating with a rotational rate omega, the thrust produced and the induced moment are both proportional to omega^2. The constant of proportionality we call K sub f for force and K sub m for moment. The actual value of these constants depend on the size and shape of the blades, the specific motors used, as well as the density of the surrounding air that they operate in. (In practice, we usually obtain these values empirically.)
 
-![fvo](images/force_vs_imega.png)
+![fvo](images/force_vs_omega.png)
 
 Based on the Force vs omega graph shown above, what is k_sub_f for this propeller? 0.007. If you double the rotation speed of the rotor, how does the thrust change? It increases by a factor of 4.
 
