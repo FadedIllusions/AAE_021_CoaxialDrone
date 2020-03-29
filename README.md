@@ -37,3 +37,23 @@ It turns out that, when a rotor is rotating with a rotational rate omega, the th
 
 Based on the Force vs omega graph shown above, what is k_sub_f for this propeller? 0.007. If you double the rotation speed of the rotor, how does the thrust change? It increases by a factor of 4.
 
+### Unbalanced Forces (F = ma)
+
+Returning to the monorotor for a moment, what happens when F_thrust > mg? ... The monorotor moves up with constant acceleration.
+
+Unbalanced forces cause acceleration. When an object experiences an unbalanced force, it accelerates in the direction of the net force. So, if F_thrust is greater than the weight/mass of the object, there will be an upward acceleration.
+
+The mathematical relationship between force and acceleration is F=ma. F is the net force on the object. The acceleration is measured in the inertial frame -- that is, a reference frame that is not accelerating, like the world frame introduced earlier.
+
+In general, F and a are vectors and have magnitude and direction; but, these vectors can be analysed on a per-direction basis. So, looking in the verticle direction the z-component of force will cause and acceleration in the z-direction. Since acceleration is the second derivative of position, we can say that Fz = mz.
+
+![fma](images/fma.png)
+
+So, if a monorotor with a mass of 2kg has these forces acting on it, then the net force would be 23.6 - 19.6N or 4 Newtons and this would cause an acceleration of 2 m/s^2 for this vehicle.
+
+![calculations](images/calculations.png)
+
+What thrust would a 2.2kg monorotor need in order to accelerate upwards at -4.0 m/s^2 (remember, z is positive downward)? 30.4N.
+
+### Unbalanced Moments Cause Rotational Acceleration
+
