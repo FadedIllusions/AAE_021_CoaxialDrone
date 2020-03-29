@@ -71,7 +71,7 @@ In the next few sections, the model we'll be using is a coaxial helicopter. Whic
 
 Looking at the "flying car" shown above, we notice it is coaxial. If rotor 1 (top) spins faster than rotor 2, in which direction will the body of the vehicle experience angular acceleration? ... Counter-clockwise (CCW).
 
-![quantities](images/quatity_table.png)
+![quantities](images/quantity_table.png)
 
 Consider a coaxial copter with the above quantities (all given in standard units). What will be the resulting linear acceleration z_double_dot? What about rotational acceleration psi_double_dot?
 
